@@ -5,6 +5,11 @@
     "color": "000000"
   },
   {
+    "name": "DEV",
+    "description": "A small increment of code and configuration toward value delivery",
+    "color": "DDDDDD"
+  },
+  {
     "name": "ERRATA",
     "description": "A mistake in documentation or other content",
     "color": "BB3300"
