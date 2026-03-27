@@ -16,6 +16,9 @@ on:
   push:
     paths: ['.github/labels.json']
 
+permissions:
+  issues: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
