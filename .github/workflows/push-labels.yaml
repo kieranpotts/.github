@@ -28,7 +28,7 @@ jobs:
         with:
           sparse-checkout: .github/labels.yml
 
-      - name: Sync labels to all repos
+      - name: Push labels
         uses: EndBug/label-sync@v2
         with:
           config-file: .github/labels.json
