@@ -5,11 +5,6 @@
     "color": "CC2200"
   },
   {
-    "name": "EPIC",
-    "description": "A container for a group of related issues",
-    "color": "0088AA"
-  },
-  {
     "name": "ERRATA",
     "description": "A mistake in documentation or other content",
     "color": "BB3300"
