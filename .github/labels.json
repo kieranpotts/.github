@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BUG",
+    "description": "An error or regression in expected behavior",
+    "color": "CC2200"
+  },
+  {
+    "name": "DEV",
+    "description": "A small increment of code and configuration toward value delivery",
+    "color": "DDDDDD"
+  },
+  {
+    "name": "EPIC",
+    "description": "A container for a group of related issues",
+    "color": "0088AA"
+  },
+  {
+    "name": "ERRATA",
+    "description": "A mistake in documentation or other content",
+    "color": "BB3300"
+  },
+  {
+    "name": "FEATURE",
+    "description": "An idea for a new or improved operation or behavior",
+    "color": "2266EE"
+  },
+  {
+    "name": "INCIDENT",
+    "description": "An event that unexpectedly disrupted or degraded production services",
+    "color": "333333"
+  },
+  {
+    "name": "INCIDENT",
+    "description": "An event that unexpectedly disrupted or degraded production services",
+    "color": "333333"
+  },
+  {
+    "name": "MAINTENANCE",
+    "description": "A routine housekeeping chore, eg. documentation edits",
+    "color": "AA6600"
+  },
+  {
+    "name": "PERFORMANCE",
+    "description": "A change to a constraint within which the system must perform",
+    "color": "008800"
+  },
+  {
+    "name": "REFACTORING",
+    "description": "A way to redesign code to improve the developer experience",
+    "color": "9933AA"
+  },
+  {
+    "name": "SPIKE",
+    "description": "An investigation, prototype, or other feasibility study",
+    "color": "EE5500"
+  },
+  {
+    "name": "SUPPORT",
+    "description": "A request for technical help",
+    "color": "FFCC00"
+  },
+  {
+    "name": "TASK",
+    "description": "A miscellaneous unit of work, not easily categorized",
+    "color": "DDDDDD"
+  },
+  {
+    "name": "# can't reproduce",
+    "description": "",
+    "color": "FFFFFF"
+  },
+  {
+    "name": "# duplicate",
+    "description": "",
+    "color": "FFFFFF"
+  },
+  {
+    "name": "# won't fix",
+    "description": "",
+    "color": "FFFFFF"
+  }
+]
