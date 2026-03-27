@@ -1,10 +1,5 @@
 [
   {
-    "name": "FIX",
-    "description": "An error or regression in expected behavior",
-    "color": "CC2200"
-  },
-  {
     "name": "DELETE",
     "description": "We'll delete this later",
     "color": "000000"
@@ -20,9 +15,9 @@
     "color": "2266EE"
   },
   {
-    "name": "INCIDENT",
-    "description": "An event that unexpectedly disrupted or degraded production services",
-    "color": "333333"
+    "name": "FIX",
+    "description": "An error or regression in expected behavior",
+    "color": "CC2200"
   },
   {
     "name": "INCIDENT",
