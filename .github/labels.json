@@ -58,5 +58,21 @@
     "name": "TASK",
     "description": "A miscellaneous unit of work, not easily categorized",
     "color": "DDDDDD"
+  },
+
+  {
+    "name": "# can't reproduce",
+    "description": "",
+    "color": "FFFFFF"
+  },
+  {
+    "name": "# duplicate",
+    "description": "",
+    "color": "FFFFFF"
+  },
+  {
+    "name": "# won't fix",
+    "description": "",
+    "color": "FFFFFF"
   }
 ]
