@@ -5,6 +5,11 @@
     "color": "CC2200"
   },
   {
+    "name": "DELETE",
+    "description": "We'll delete this later",
+    "color": "000000"
+  },
+  {
     "name": "ERRATA",
     "description": "A mistake in documentation or other content",
     "color": "BB3300"
