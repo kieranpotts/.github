@@ -1,13 +1,13 @@
 [
   {
-    "name": "DELETE",
-    "description": "We'll delete this later",
-    "color": "000000"
-  },
-  {
     "name": "DEV",
     "description": "A small increment of code and configuration toward value delivery",
     "color": "DDDDDD"
+  },
+  {
+    "name": "EPIC",
+    "description": "A container for a group of related issues",
+    "color": "0088AA"
   },
   {
     "name": "ERRATA",
