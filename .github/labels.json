@@ -1,5 +1,10 @@
 [
   {
+    "name": "BUG",
+    "description": "An error or regression in expected behavior",
+    "color": "CC2200"
+  },
+  {
     "name": "DEV",
     "description": "A small increment of code and configuration toward value delivery",
     "color": "DDDDDD"
@@ -18,11 +23,6 @@
     "name": "FEATURE",
     "description": "An idea for a new or improved operation or behavior",
     "color": "2266EE"
-  },
-  {
-    "name": "FIX",
-    "description": "An error or regression in expected behavior",
-    "color": "CC2200"
   },
   {
     "name": "INCIDENT",
