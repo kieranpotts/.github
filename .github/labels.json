@@ -47,7 +47,7 @@
   {
     "name": "SPIKE",
     "description": "An investigation, prototype, or other feasibility study",
-    "color": "EE5500"
+    "color": "FF33FF"
   },
   {
     "name": "SUPPORT",
@@ -62,7 +62,7 @@
   {
     "name": "VULNERABILITY",
     "description": "A potential security issue",
-    "color": "FF5500"
+    "color": "EE5500"
   },
 
   {
