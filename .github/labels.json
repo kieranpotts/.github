@@ -59,6 +59,11 @@
     "description": "A miscellaneous unit of work, not easily categorized",
     "color": "DDDDDD"
   },
+  {
+    "name": "VULNERABILITY",
+    "description": "A potential security issue",
+    "color": "FF5500"
+  },
 
   {
     "name": "# can't reproduce",
