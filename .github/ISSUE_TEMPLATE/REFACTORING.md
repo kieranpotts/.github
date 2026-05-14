@@ -10,6 +10,8 @@ assignees: ""
 
 Write a concise description of the code or module that needs improving.
 
+> **Note**: This issue type covers structural improvements to code design, logic, and architecture. For low-level code formatting concerns (whitespace, indentation, line wrapping, style), use the `FORMAT` issue type instead.
+
 ## Business case
 
 What is the business case for investing in this work?
