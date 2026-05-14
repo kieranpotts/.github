@@ -5,11 +5,6 @@
     "color": "CC2200"
   },
   {
-    "name": "DEV",
-    "description": "A small increment of code and configuration toward value delivery",
-    "color": "DDDDDD"
-  },
-  {
     "name": "EPIC",
     "description": "A container for a group of related issues",
     "color": "0088AA"
@@ -48,6 +43,11 @@
     "name": "SPIKE",
     "description": "An investigation, prototype, or other feasibility study",
     "color": "FF33FF"
+  },
+  {
+    "name": "STEP",
+    "description": "A small increment of code and configuration toward value delivery",
+    "color": "DDDDDD"
   },
   {
     "name": "SUPPORT",

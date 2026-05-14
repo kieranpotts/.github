@@ -1,7 +1,7 @@
 ---
-name: Dev
+name: Step
 about: Remember to implement a small increment toward value delivery
 title: ""
-labels: DEV
+labels: STEP
 assignees: ""
 ---
