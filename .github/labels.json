@@ -20,6 +20,11 @@
     "color": "2266EE"
   },
   {
+    "name": "FORMAT",
+    "description": "Code formatting, whitespace, indentation, or code style improvements",
+    "color": "EE3388"
+  },
+  {
     "name": "INCIDENT",
     "description": "An event that unexpectedly disrupted or degraded production services",
     "color": "333333"
