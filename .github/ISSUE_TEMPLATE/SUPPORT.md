@@ -6,13 +6,11 @@ labels: SUPPORT
 assignees: ""
 ---
 
-## How can we help?
-
-Write your support request here.
+_Write your support request here._
 
 ## Checklist
 
-Please check the boxes `[x]`:
+_Please check the boxes `[x]`:_
 
 - [ ] I have tried to find a solution in the documentation.
 - [ ] I have searched for similar questions in this issue tracker.

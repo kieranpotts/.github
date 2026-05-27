@@ -6,15 +6,13 @@ labels: FORMAT
 assignees: ""
 ---
 
-## Description
-
-Write a concise description of the formatting issues in the codebase.
+_Write a concise description of the formatting issues in the codebase._
 
 > **Note**: This issue type covers low-level code formatting concerns only—whitespace, indentation, line wrapping, and code style. For structural improvements to code design, logic, or architecture, use the `REFACTORING` issue type instead.
 
 ## Scope
 
-List the specific files, directories, or code sections targeted for formatting improvements. Examples:
+_List the specific files, directories, or code sections targeted for formatting improvements. Examples:_
 
 - Apply `prettier` to `src/` directory.
 - Enforce consistent indentation in test files.
@@ -23,7 +21,7 @@ List the specific files, directories, or code sections targeted for formatting i
 
 ## Current state
 
-Describe the formatting inconsistencies or issues, eg.:
+_Describe the formatting inconsistencies or issues, eg.:_
 
 - Lines exceeding the column limit.
 - Inconsistent whitespace or indentation.
@@ -32,7 +30,7 @@ Describe the formatting inconsistencies or issues, eg.:
 
 ## Desired state
 
-Specify the desired formatting standard after improvements, eg.:
+_Specify the desired formatting standard after improvements, eg.:_
 
 - All code formatted by `prettier` with project config.
 - Consistent 2-space indentation throughout.
@@ -41,7 +39,7 @@ Specify the desired formatting standard after improvements, eg.:
 
 ## Automated tooling
 
-List any formatting tools or linters that could automate this work, eg.:
+_List any formatting tools or linters that could automate this work, eg.:_
 
 - `prettier` for JavaScript/TypeScript.
 - `black` for Python.
@@ -52,7 +50,7 @@ If automation is available, describe whether a single tool run can fix all issue
 
 ## Impact
 
-Briefly describe any impact on the codebase:
+_Briefly describe any impact on the codebase:_
 
 - No behavioral changes expected (formatting only).
 - May affect line counts in blame/history.
@@ -60,4 +58,4 @@ Briefly describe any impact on the codebase:
 
 ## Additional notes
 
-Add any other context, style guide references, or links to discussions about formatting standards.
+_Add any other context, style guide references, or links to discussions about formatting standards._

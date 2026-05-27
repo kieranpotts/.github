@@ -1,6 +1,6 @@
 Resolves #[issue]
 
-Write a brief summary of the changes included in this PR.
+_Write a brief summary of the changes included in this PR._
 
 ## Checklist
 
@@ -12,7 +12,7 @@ Write a brief summary of the changes included in this PR.
 
 ### Optional
 
-Please mark `[x]` all that apply. This will help the maintainers of the project to understand what work is outstanding before your changes can be merged.
+_Please mark `[x]` all that apply. This will help the maintainers of the project to understand what work is outstanding before your changes can be merged._
 
 - [ ] My changes are covered by automated tests.
 - [ ] I have manually tested my changes.

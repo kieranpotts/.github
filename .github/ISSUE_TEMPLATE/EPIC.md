@@ -6,15 +6,12 @@ labels: EPIC
 assignees: ""
 ---
 
-## Description
-
-Write a concise description of this epic.
+_Write a concise description of this epic._
 
 ## Scope
 
-Define the boundaries of this epic.
+_Define the boundaries of this epic._
 
 ## Sub-tasks
 
-List the sub-tasks that are part of this epic. Alternatively, add sub-issues via the GitHub interface.
-
+_List the sub-tasks that are part of this epic. Alternatively, add sub-issues via the GitHub interface._
