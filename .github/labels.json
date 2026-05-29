@@ -50,11 +50,6 @@
     "color": "FF33FF"
   },
   {
-    "name": "STEP",
-    "description": "A small increment of code and configuration toward value delivery",
-    "color": "DDDDDD"
-  },
-  {
     "name": "SUPPORT",
     "description": "A request for technical help",
     "color": "FFCC00"
