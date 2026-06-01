@@ -1,67 +1,67 @@
 [
   {
     "name": "BUG",
-    "description": "An error or regression in expected behavior",
+    "description": "An error or regression in expected behavior.",
     "color": "CC2200"
   },
   {
     "name": "EPIC",
-    "description": "A container for a group of related issues",
+    "description": "A container for a group of related issues.",
     "color": "0088AA"
   },
   {
     "name": "ERRATA",
-    "description": "A mistake in documentation or other content",
+    "description": "A mistake in documentation or other content.",
     "color": "BB3300"
   },
   {
     "name": "FEATURE",
-    "description": "An idea for a new or improved operation or behavior",
+    "description": "An idea for a new or improved operation or behavior.",
     "color": "2266EE"
   },
   {
     "name": "FORMAT",
-    "description": "Code formatting, whitespace, indentation, or code style improvements",
+    "description": "Code formatting, whitespace, indentation, or code style improvements.",
     "color": "EE3388"
   },
   {
     "name": "INCIDENT",
-    "description": "An event that unexpectedly disrupted or degraded production services",
+    "description": "An event that unexpectedly disrupted or degraded production services.",
     "color": "333333"
   },
   {
     "name": "MAINTENANCE",
-    "description": "A routine housekeeping chore, eg. documentation edits",
+    "description": "A routine housekeeping chore, eg. documentation edits.",
     "color": "AA6600"
   },
   {
     "name": "PERFORMANCE",
-    "description": "A change to a constraint within which the system must perform",
+    "description": "A change to a constraint within which the system must perform.",
     "color": "008800"
   },
   {
     "name": "REFACTORING",
-    "description": "A way to redesign code to improve the developer experience",
+    "description": "A way to redesign code to improve the developer experience.",
     "color": "9933AA"
   },
   {
     "name": "SPIKE",
-    "description": "An investigation, prototype, or other feasibility study",
+    "description": "An investigation, prototype, or other feasibility study.",
     "color": "FF33FF"
   },
   {
     "name": "SUPPORT",
-    "description": "A request for technical help",
+    "description": "A request for technical help.",
     "color": "FFCC00"
   },
   {
     "name": "TASK",
-    "description": "A miscellaneous unit of work, not easily categorized",
+    "description": "A miscellaneous unit of work, not easily categorized.",
     "color": "DDDDDD"
   },
   {
     "name": "VULNERABILITY",
-    "description": "A potential security issue",
+    "description": "A potential security issue.",
     "color": "EE5500"
   },
 
