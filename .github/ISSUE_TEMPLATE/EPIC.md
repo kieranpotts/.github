@@ -1,6 +1,6 @@
 ---
 name: Epic
-about: Create a container for a group of related issues
+about: Create a container for a group of related issues.
 title: ""
 labels: EPIC
 assignees: ""

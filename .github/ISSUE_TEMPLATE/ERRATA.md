@@ -1,6 +1,6 @@
 ---
 name: Errata
-about: Report a mistake in documentation or other content
+about: Report a mistake in documentation or other content.
 title: ""
 labels: ERRATA
 assignees: ""

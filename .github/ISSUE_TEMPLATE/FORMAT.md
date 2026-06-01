@@ -1,6 +1,6 @@
 ---
 name: Format
-about: Suggest code formatting improvements (whitespace, indentation, style)
+about: Suggest code formatting improvements (whitespace, indentation, style).
 title: ""
 labels: FORMAT
 assignees: ""

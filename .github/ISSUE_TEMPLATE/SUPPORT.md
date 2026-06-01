@@ -1,6 +1,6 @@
 ---
 name: Support
-about: Request technical help
+about: Request technical help.
 title: ""
 labels: SUPPORT
 assignees: ""

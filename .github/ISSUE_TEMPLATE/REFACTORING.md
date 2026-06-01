@@ -1,6 +1,6 @@
 ---
 name: Refactoring
-about: Suggest how code can be redesigned to improve the developer experience
+about: Suggest how code can be redesigned to improve the developer experience.
 title: ""
 labels: REFACTORING
 assignees: ""

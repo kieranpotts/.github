@@ -1,6 +1,6 @@
 ---
 name: Spike
-about: Research and evaluate options to solve a problem
+about: Research and evaluate options to solve a problem.
 title: ""
 labels: SPIKE
 assignees: ""

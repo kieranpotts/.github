@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Propose an idea for a new or improved operation or behavior
+about: Propose an idea for a new or improved operation or behavior.
 title: ""
 labels: FEATURE
 assignees: ""

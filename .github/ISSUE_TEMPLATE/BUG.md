@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Report an error or regression in an expected behavior
+about: Report an error or regression in an expected behavior.
 title: ""
 labels: BUG
 assignees: ""

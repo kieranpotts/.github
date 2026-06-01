@@ -1,6 +1,6 @@
 ---
 name: Maintenance
-about: Plan a routine housekeeping chore
+about: Plan a routine housekeeping chore.
 title: ""
 labels: MAINTENANCE
 assignees: ""
