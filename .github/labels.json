@@ -2,7 +2,7 @@
   {
     "name": "BUG",
     "description": "An error or regression in expected behavior.",
-    "color": "CC2200"
+    "color": "CC3333"
   },
   {
     "name": "EPIC",
@@ -17,17 +17,17 @@
   {
     "name": "FEATURE",
     "description": "An idea for a new or improved operation or behavior.",
-    "color": "2266EE"
+    "color": "0066AA"
   },
   {
     "name": "FORMAT",
     "description": "Code formatting, whitespace, indentation, or code style improvements.",
-    "color": "EE3388"
+    "color": "DD4477"
   },
   {
     "name": "INCIDENT",
     "description": "An event that unexpectedly disrupted or degraded production services.",
-    "color": "333333"
+    "color": "553333"
   },
   {
     "name": "MAINTENANCE",
@@ -37,32 +37,32 @@
   {
     "name": "PERFORMANCE",
     "description": "A change to a constraint within which the system must perform.",
-    "color": "008800"
+    "color": "557700"
   },
   {
     "name": "REFACTORING",
     "description": "A way to redesign code to improve the developer experience.",
-    "color": "9933AA"
+    "color": "994499"
   },
   {
     "name": "SPIKE",
     "description": "An investigation, prototype, or other feasibility study.",
-    "color": "FF33FF"
+    "color": "006677"
   },
   {
     "name": "SUPPORT",
     "description": "A request for technical help.",
-    "color": "FFCC00"
+    "color": "FFBB66"
   },
   {
     "name": "TASK",
     "description": "A miscellaneous unit of work, not easily categorized.",
-    "color": "DDDDDD"
+    "color": "AABBBB"
   },
   {
     "name": "VULNERABILITY",
     "description": "A potential security issue.",
-    "color": "EE5500"
+    "color": "CC5500"
   },
 
   {
