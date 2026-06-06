@@ -35,14 +35,15 @@
     "color": "AA6600"
   },
   {
-    "name": "PERFORMANCE",
-    "description": "A change to a constraint within which the system must perform.",
-    "color": "557700"
-  },
-  {
     "name": "REFACTORING",
     "description": "A way to redesign code to improve the developer experience.",
     "color": "994499"
+  },
+  {
+    "name": "RUNTIME",
+    "description": "A change to a constraint within which the system must perform at runtime.",
+    "color": "557700",
+    "aliases": ["PERFORMANCE"]
   },
   {
     "name": "SPIKE",

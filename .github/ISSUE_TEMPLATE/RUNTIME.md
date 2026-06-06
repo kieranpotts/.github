@@ -1,12 +1,12 @@
 ---
-name: Performance
-about: Define a constraint within which the system must perform.
+name: Runtime
+about: Define a constraint on the system's dynamic quality attributes (latency, availability, security, etc.).
 title: ""
-labels: PERFORMANCE
+labels: RUNTIME
 assignees: ""
 ---
 
-_Write a concise description of the proposed improvements to the runtime performance of the system._
+_Write a concise description of the proposed improvements to the system's runtime quality attributes._
 
 Discussion thread: [Link]
 
@@ -16,7 +16,7 @@ _Describe the current state of the relevant non-functional quality attributes, e
 
 ## Desired state
 
-_Define the criteria for considering the performance improvements to be successful. If possible, specify measurable performance metrics._
+_Define the criteria for considering the improvements to be successful. If possible, specify measurable metrics._
 
 ## Validation
 
@@ -30,7 +30,7 @@ _Why should this change be made? What problem does it solve, and for whom? What 
 
 HIGH | MEDIUM | LOW
 
-_List the components or modules that are expected to need to be changed to achieve the desired performance improvements. Mention any tools, techniques, or methodologies to be used, eg. code profiling, load testing, or security auditing. Identify any dependencies that need to be considered, too._
+_List the components or modules that are expected to need to be changed to achieve the desired improvements. Mention any tools, techniques, or methodologies to be used, eg. code profiling, load testing, or security auditing. Identify any dependencies that need to be considered, too._
 
 ## Risks
 
