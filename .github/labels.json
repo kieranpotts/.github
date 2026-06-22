@@ -80,5 +80,21 @@
     "name": "# won't fix",
     "description": "",
     "color": "FFFFFF"
+  },
+
+  {
+    "name": "# 2 months stale",
+    "description": "",
+    "color": "FFFFFF"
+  },
+  {
+    "name": "# 4 months stale",
+    "description": "",
+    "color": "FFFFFF"
+  },
+  {
+    "name": "# 8 months stale",
+    "description": "",
+    "color": "FFFFFF"
   }
 ]
