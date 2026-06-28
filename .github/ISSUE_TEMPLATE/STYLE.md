@@ -1,8 +1,8 @@
 ---
-name: Format
+name: Style
 about: Suggest code formatting improvements (whitespace, indentation, style).
 title: ""
-labels: FORMAT
+labels: STYLE
 assignees: ""
 ---
 
