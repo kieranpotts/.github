@@ -6,7 +6,7 @@ labels: BUG
 assignees: ""
 ---
 
-_Write a concise description of the bug._
+Write a concise description of the bug.
 
 ## Steps to reproduce
 
@@ -22,7 +22,7 @@ _Write a concise description of the bug._
 
 ## Environment
 
-_Please describe the environments in which you installed the software, or the client devices from which you accessed it. Example:_
+Please describe the environments in which you installed the software, or the client devices from which you accessed it. Example:
 
 - **OS**: [eg. Windows 10, macOS Sequoia]
 - **Browser**: [eg. Chrome, Firefox]
@@ -30,4 +30,4 @@ _Please describe the environments in which you installed the software, or the cl
 
 ## Additional artifacts
 
-_Please attach screenshots, stderr output, or other artifacts that may help the project's maintainers to diagnose the issue._
+Please attach screenshots, stderr output, or other artifacts that may help the project's maintainers to diagnose the issue.

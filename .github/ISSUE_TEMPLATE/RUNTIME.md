@@ -6,36 +6,36 @@ labels: RUNTIME
 assignees: ""
 ---
 
-_Write a concise description of the proposed improvements to the system's runtime quality attributes._
+Write a concise description of the proposed improvements to the system's runtime quality attributes.
 
 Discussion thread: [Link]
 
 ## Current state
 
-_Describe the current state of the relevant non-functional quality attributes, eg. security, availability, or latency. If possible, provide current performance metrics, eg. response time, throughput, or CPU usage._
+Describe the current state of the relevant non-functional quality attributes, eg. security, availability, or latency. If possible, provide current performance metrics, eg. response time, throughput, or CPU usage.
 
 ## Desired state
 
-_Define the criteria for considering the improvements to be successful. If possible, specify measurable metrics._
+Define the criteria for considering the improvements to be successful. If possible, specify measurable metrics.
 
 ## Validation
 
-_Describe the testing strategy that will be used to validate the improvements, eg. benchmarking, stress tests, security tests. Establish a baseline for comparison._
+Describe the testing strategy that will be used to validate the improvements, eg. benchmarking, stress tests, security tests. Establish a baseline for comparison.
 
 ## Motivation
 
-_Why should this change be made? What problem does it solve, and for whom? What is the expected outcome for the business and/or its customers?_
+Why should this change be made? What problem does it solve, and for whom? What is the expected outcome for the business and/or its customers?
 
 ## Impact
 
 HIGH | MEDIUM | LOW
 
-_List the components or modules that are expected to need to be changed to achieve the desired improvements. Mention any tools, techniques, or methodologies to be used, eg. code profiling, load testing, or security auditing. Identify any dependencies that need to be considered, too._
+List the components or modules that are expected to need to be changed to achieve the desired improvements. Mention any tools, techniques, or methodologies to be used, eg. code profiling, load testing, or security auditing. Identify any dependencies that need to be considered, too.
 
 ## Risks
 
-_Identify potential risks. For each risk, describe possible mitigation strategies._
+Identify potential risks. For each risk, describe possible mitigation strategies.
 
 ## Additional notes
 
-_Any open questions, risks, or context that would help stakeholders evaluate this proposal._
+Any open questions, risks, or context that would help stakeholders evaluate this proposal.

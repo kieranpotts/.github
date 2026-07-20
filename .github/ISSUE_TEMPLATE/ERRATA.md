@@ -6,7 +6,7 @@ labels: ERRATA
 assignees: ""
 ---
 
-_Provide details of the mistake. Include the section, page, or URL._
+Provide details of the mistake. Include the section, page, or URL.
 
 ```
 Alternatively, copy and paste the erroneous text here.
@@ -14,7 +14,7 @@ Alternatively, copy and paste the erroneous text here.
 
 ## Correction
 
-_Provide details of the correction._
+Provide details of the correction.
 
 ```
 Alternatively, suggest how the erroneous text should be changed.
@@ -22,4 +22,4 @@ Alternatively, suggest how the erroneous text should be changed.
 
 ## Sources
 
-_Provide links to any resources that support the correction._
+Provide links to any resources that support the correction.

@@ -6,11 +6,11 @@ labels: MAINTENANCE
 assignees: ""
 ---
 
-_Write a concise description of the maintenance work that needs to be done._
+Write a concise description of the maintenance work that needs to be done.
 
 ## Due
 
-_What's the deadline for this, if the work needs to be completed by a specific date, eg. before the EOL of a dependency?_
+What's the deadline for this, if the work needs to be completed by a specific date, eg. before the EOL of a dependency?
 
 ## Steps to complete
 
@@ -20,4 +20,4 @@ _What's the deadline for this, if the work needs to be completed by a specific d
 
 ## Additional notes
 
-_Add any additional information or context that might help to complete this task._
+Add any additional information or context that might help to complete this task.

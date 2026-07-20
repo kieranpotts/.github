@@ -6,11 +6,11 @@ labels: SPIKE
 assignees: ""
 ---
 
-_What question are we trying to answer or what do we need to learn?_
+What question are we trying to answer or what do we need to learn?
 
 ## Context
 
-_Why is this spike needed? What problem or decision is blocking us?_
+Why is this spike needed? What problem or decision is blocking us?
 
 ## Scope
 
@@ -20,7 +20,7 @@ _Why is this spike needed? What problem or decision is blocking us?_
 
 ## Success criteria
 
-_What does "done" look like for this spike?_
+What does "done" look like for this spike?
 
 ## Timebox
 
@@ -34,4 +34,4 @@ _What does "done" look like for this spike?_
 
 ## Next steps
 
-_What decisions or tasks will this spike inform?_
+What decisions or tasks will this spike inform?
