@@ -15,14 +15,15 @@
     "color": "BB3300"
   },
   {
-    "name": "FEATURE",
-    "description": "An idea for a new or improved operation or behavior.",
-    "color": "0066AA"
+    "name": "BEHAVIOR",
+    "description": "An idea for a new or improved operation or user-facing feature.",
+    "color": "0066AA",
+    "aliases": ["FEATURE"]
   },
   {
     "name": "INCIDENT",
     "description": "An event that unexpectedly disrupted or degraded production services.",
-    "color": "553333"
+    "color": "773333"
   },
   {
     "name": "MAINTENANCE",
@@ -30,20 +31,20 @@
     "color": "AA6600"
   },
   {
+    "name": "QUALITY",
+    "description": "A change to a constraint within which the system must perform at runtime.",
+    "color": "557700",
+    "aliases": ["RUNTIME", "PERFORMANCE"]
+  },
+  {
     "name": "REFACTORING",
     "description": "A way to redesign code to improve the developer experience.",
     "color": "994499"
   },
   {
-    "name": "RUNTIME",
-    "description": "A change to a constraint within which the system must perform at runtime.",
-    "color": "557700",
-    "aliases": ["PERFORMANCE"]
-  },
-  {
     "name": "SPIKE",
     "description": "An investigation, prototype, or other feasibility study.",
-    "color": "006677"
+    "color": "227777"
   },
   {
     "name": "STYLE",
@@ -58,7 +59,7 @@
   {
     "name": "TASK",
     "description": "A miscellaneous unit of work, not easily categorized.",
-    "color": "AABBBB"
+    "color": "667777"
   },
   {
     "name": "VULNERABILITY",
