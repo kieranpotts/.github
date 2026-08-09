@@ -1,12 +1,12 @@
 ---
-name: Feature
-about: Propose an idea for a new or improved operation or behavior.
+name: Behavior
+about: Propose an idea for a new or improved operation or user-facing feature.
 title: ""
-labels: FEATURE
+labels: BEHAVIOR
 assignees: ""
 ---
 
-Write a concise description of the feature you're proposing.
+Write a concise description of the operation or feature you're proposing.
 
 Discussion thread: [Link]
 

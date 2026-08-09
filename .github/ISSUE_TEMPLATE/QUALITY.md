@@ -1,8 +1,8 @@
 ---
-name: Runtime
+name: Quality
 about: Define a constraint on the system's dynamic quality attributes (latency, availability, security, etc.).
 title: ""
-labels: RUNTIME
+labels: QUALITY
 assignees: ""
 ---
 
