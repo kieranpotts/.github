@@ -44,7 +44,7 @@ SHOULD NOT, OPTIONAL, and MAY are to be interpreted as described in
 The following technical standards (TS) govern this project. Read the relevant
 standard(s) for the current task.
 
-- **[TS-8: Issue Tracking](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/008/AGENTS.md)**
-- **[TS-9: Version Control](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/009/AGENTS.md)**
-- **[TS-60: GitHub Actions](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/060/AGENTS.md)**
-- **[TS-61: AI Tools](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/061/AGENTS.md)**
+- **[TS-8: Issue Tracking](https://kieranpotts.com/standards/008)**
+- **[TS-9: Version Control](https://kieranpotts.com/standards/009)**
+- **[TS-60: GitHub Actions](https://kieranpotts.com/standards/060)**
+- **[TS-61: AI Tools](https://kieranpotts.com/standards/061)**
